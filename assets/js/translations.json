@@ -1,0 +1,27 @@
+{
+    "en": {
+      "welcome-heading": "Welcome to Our Platform!",
+      "welcome-description": "Join our community and enjoy exclusive features",
+      "welcome-invitation": "Ready to get started? Join now!",
+      "form-heading": "Get Started",
+      "username-placeholder": "Username",
+      "email-placeholder": "Email",
+      "password-placeholder": "Password",
+      "confirm-password-placeholder": "Confirm password",
+      "terms-label": "I have read and agree to the Terms and Conditions",
+      "signup-btn": "Sign up"
+    },
+    "es": {
+      "welcome-heading": "¡Bienvenido a Nuestra Plataforma!",
+      "welcome-description": "Únete a nuestra comunidad y disfruta de características exclusivas",
+      "welcome-invitation": "¿Listo para comenzar? ¡Únete ahora!",
+      "form-heading": "Comienza",
+      "username-placeholder": "Nombre de usuario",
+      "email-placeholder": "Correo electrónico",
+      "password-placeholder": "Contraseña",
+      "confirm-password-placeholder": "Confirmar contraseña",
+      "terms-label": "He leído y acepto los Términos y Condiciones",
+      "signup-btn": "Regístrate"
+    }
+  }
+  
