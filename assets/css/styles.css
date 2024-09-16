@@ -41,7 +41,7 @@ body {
 }
 
 .pone {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     margin-top: 120px;
     justify-content: center;
     text-align: center;
@@ -49,8 +49,8 @@ body {
 }
 
 .ptwo {
-    font-size: 1.7rem;
-    margin-top: 80px;
+    font-size: 1.5rem;
+    margin-top: 60px;
     justify-content: center;
     text-align: center;
     background: rgba(190, 142, 142, 0.4);
