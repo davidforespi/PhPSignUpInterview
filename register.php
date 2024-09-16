@@ -1,6 +1,6 @@
 <?php
 
-$database_file = 'data/users.json';
+$database_file = 'app/data/users.json';
 
 
 if (!file_exists('data')) {
